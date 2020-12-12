@@ -14,9 +14,9 @@ def main(args):
     #name = input("What is your name?")
 
     while 1:
-        command = ("JOIN")
-        p1 = subprocess.Popen("command")
-        p2= subprocess.Popen("name|0")
+        #command = ("JOIN")
+        #p1 = subprocess.Popen("command")
+        #p2= subprocess.Popen("name|0")
         # message to be sent
         #msg = input('Chritopher|0|"\n"')
         # command = input("Hello, would you like to Join, Move, Shoot, Help, Quit", "\n")
